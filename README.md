@@ -1,0 +1,1 @@
+The current project is to build a recipes website. I just finished HTML basics and enjoyed it a lot! Felt my first triumph when I fixed an issue I was confused about. I am excited to continue learning more, set a website with meaning up, and learn CSS to make it look like an actual website!
